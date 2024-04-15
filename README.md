@@ -1,4 +1,4 @@
-# Road Accident Dashboard
+# Road Accident Dashboard 🚗
 ## Project Overview
 This Excel dashboard provides a comprehensive analysis of road accidents, offering visual insights through charts and graphs. The project aims to highlight patterns and trends in road accidents to promote better understanding and inform preventative measures.
 
