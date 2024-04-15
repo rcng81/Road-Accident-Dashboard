@@ -10,7 +10,7 @@ This Excel dashboard provides a comprehensive analysis of road accidents, offeri
 ## Data Source
 The data used in this dashboard has been sourced from https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain
 
-## Tools Used
+## Tools Used 🛠️
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 Utilized for creating the dashboard, data manipulation, and visualizations.
