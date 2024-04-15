@@ -18,7 +18,6 @@ The data used in this dashboard has been sourced from https://en.wikipedia.org/w
 ## Tools Used 🛠️
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-Utilized to create the dashboard, manipulate data, and create visualizations.
 
 ## Screenshots
 ### Road Accident Dashboard
