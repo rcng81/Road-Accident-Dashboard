@@ -22,8 +22,8 @@ Utilized for creating the dashboard, data manipulation, and visualizations.
 3. Use the provided filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
-Road Accident Dashboard
+# Road Accident Dashboard
 ![Road Accident Dashboard](https://github.com/rcng81/Road-Accident-Dashboard/assets/98992360/bdd490cd-4e34-418d-abbe-5dfaa3e69813)
 
-Road Accident Data Analysts Sheet
+# Road Accident Data Analysts Sheet
 ![Road Accident Data Analysts Sheet](https://github.com/rcng81/Road-Accident-Dashboard/assets/98992360/542436a1-7439-4744-ba52-a798e8cc4f39)
