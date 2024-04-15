@@ -12,7 +12,7 @@ The data used in this dashboard has been sourced from [Name of the Source]. It i
 
 ## Tools Used
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-Utilized for creating the dashboard, data manipulation, and visualizations.
+## Utilized for creating the dashboard, data manipulation, and visualizations.
 
 
 ## How to Use
