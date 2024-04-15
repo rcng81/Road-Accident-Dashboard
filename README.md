@@ -1,5 +1,4 @@
 # Road Accident Dashboard
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ## Project Overview
 This Excel dashboard provides a comprehensive analysis of road accidents, offering visual insights through charts and graphs. The project aims to highlight patterns and trends in road accidents to promote better understanding and inform preventative measures.
 
@@ -12,8 +11,8 @@ This Excel dashboard provides a comprehensive analysis of road accidents, offeri
 The data used in this dashboard has been sourced from [Name of the Source]. It includes records from [start year] to [end year], covering various parameters like accident locations, casualty figures, and time of occurrence.
 
 ## Tools Used
-- Microsoft Excel: Utilized for creating the dashboard, data manipulation, and visualizations.
-- [Any other tools or libraries]
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white): Utilized for creating the dashboard, data manipulation, and visualizations.
+
 
 ## How to Use
 1. Download the Excel file from this repository.
