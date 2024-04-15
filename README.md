@@ -1,5 +1,5 @@
 # Road Accident Dashboard
-
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ## Project Overview
 This Excel dashboard provides a comprehensive analysis of road accidents, offering visual insights through charts and graphs. The project aims to highlight patterns and trends in road accidents to promote better understanding and inform preventative measures.
 
