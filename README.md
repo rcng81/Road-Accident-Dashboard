@@ -22,5 +22,5 @@ Utilized for creating the dashboard, data manipulation, and visualizations.
 3. Use the provided filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
-![Dashboard Screenshot](https://gyazo.com/c2aa850b0808d339d9223f74f76561b1)  
+![Dashboard Screenshot](Road Accident Dashboard.png)  
 *Example of the Road Accident Dashboard*
