@@ -10,16 +10,15 @@ This Excel dashboard provides a comprehensive analysis of road accidents, offeri
 ## Data Source
 The data used in this dashboard has been sourced from https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain
 
+## How It Works 🔍
+1. Download the Excel file from this repository.
+2. Open the file using Microsoft Excel.
+3. Use the provided filters and interactive elements to explore different aspects of the data.
+
 ## Tools Used 🛠️
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 Utilized for creating the dashboard, data manipulation, and visualizations.
-
-
-## How to Use
-1. Download the Excel file from this repository.
-2. Open the file using Microsoft Excel.
-3. Use the provided filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
 ### Road Accident Dashboard
