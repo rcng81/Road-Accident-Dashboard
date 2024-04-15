@@ -2,7 +2,7 @@
 ## Project Overview
 This Excel dashboard provides a comprehensive analysis of road accidents, offering visual insights through charts and graphs. The project aims to highlight patterns and trends in road accidents to promote better understanding and inform preventative measures.
 
-## Features
+## Features 🌟
 - **Interactive Charts**: Visualize data on road accidents by location, time, and severity.
 - **Filter Options**: Users can filter data to view specific metrics, making it easier to find relevant information.
 - **Trend Analysis**: Includes trend lines and comparative analysis to observe changes over time.
