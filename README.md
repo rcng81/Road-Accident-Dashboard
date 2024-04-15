@@ -23,4 +23,6 @@ Utilized for creating the dashboard, data manipulation, and visualizations.
 
 ## Screenshots
 ![Dashboard Screenshot](Road Accident Dashboard.png)  
+![Road Accident Dashboard](https://github.com/rcng81/Road-Accident-Dashboard/assets/98992360/bdd490cd-4e34-418d-abbe-5dfaa3e69813)
+
 *Example of the Road Accident Dashboard*
