@@ -11,7 +11,8 @@ This Excel dashboard provides a comprehensive analysis of road accidents, offeri
 The data used in this dashboard has been sourced from [Name of the Source]. It includes records from [start year] to [end year], covering various parameters like accident locations, casualty figures, and time of occurrence.
 
 ## Tools Used
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white): Utilized for creating the dashboard, data manipulation, and visualizations.
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+Utilized for creating the dashboard, data manipulation, and visualizations.
 
 
 ## How to Use
